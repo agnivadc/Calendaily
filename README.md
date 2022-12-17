@@ -1,2 +1,2 @@
-# Calendaily
+# calendaily
  An Event Scheduler app
